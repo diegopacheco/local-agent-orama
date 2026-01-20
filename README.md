@@ -13,3 +13,19 @@ Local Agent Orama is a simple ai coding agent orchestrator that gets your prompt
 <img src="result-1.png" width="600"/>
 
 <img src="result-2.png" width="600"/>
+
+## Built with
+
+Backend:
+
+* Rust
+* Tokyio
+* Actix
+
+Frontend:
+
+* Typescript
+* Tan-Stack
+* React
+* Vite
+* Bun
